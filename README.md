@@ -28,4 +28,4 @@ npm run build
 Consultar [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Construido con
-* [Vue.js] (http://vuejs.org) -- Framework de JavaScript de código abierto para interfaces de usuario y SPA
+[Vue.js](http://vuejs.org) -- Framework de JavaScript de código abierto para interfaces de usuario y SPA
