@@ -14,7 +14,7 @@ Para poder tener una copia del proyecto en tu máquina local es necesario que si
 npm install
 ```
 
-#### Compilación y hot-reloads para producción
+#### Compilación y hot-reloads para desarrollo
 ```
 npm run serve
 ```
